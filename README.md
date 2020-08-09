@@ -1,6 +1,6 @@
 ![](https://badgen.net/badge/Life/failing/red) ![](https://badgen.net/badge/Money/failing/red)
 
-### Hi there, I'm Haruto - aka jpnykw 👋
+### Hi there, I'm jpnykw 👋
 
 - 😺 About me: 18 years old Japanese live in Tokyo 
 - 🔭 What do: I'm developing [Ocurima][ocurima] on a part-time basis
