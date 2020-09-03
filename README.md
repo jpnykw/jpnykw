@@ -3,7 +3,6 @@
 ### Hi there, I'm jpnykw 👋
 
 - 😺 About me: 18 years old Japanese live in Tokyo 
-- 🔭 What do: I'm developing [Ocurima][ocurima] on a part-time basis
 - 🚩 2020 Goals: Earn to get any want things and get them
 - ⚡ Fun fact: I love playing games eg Valorant, Muse Dash and more
 
