@@ -1,11 +1,5 @@
 ![](https://badgen.net/badge/Life/failing/red) ![](https://badgen.net/badge/Money/failing/red)
 
-### Hi there, I'm jpnykw 👋
-
-- 😺 About me: 18 years old Japanese live in Tokyo 
-- 🚩 2020 Goals: Earn to get any want things and get them
-- ⚡ Fun fact: I love playing games eg Valorant, Muse Dash and more
-
 ### Languages and Tools:
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"/>
