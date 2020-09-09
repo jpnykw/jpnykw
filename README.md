@@ -6,9 +6,10 @@
   <img src="https://badgen.net/badge/Money/failing/red">
 </div>
 
-<br>
+<br />
 
 <div align="center">
+  <h2>Stats</h2>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=jpnykw&count_private=true&show_icons=true&theme=prussian" />
   </a>
