@@ -5,3 +5,11 @@
   <img src="https://badgen.net/badge/Time/failing/red">
   <img src="https://badgen.net/badge/Money/failing/red">
 </div>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=jpnykw&count_private=true&show_icons=true&theme=prussian" />
+  </a>
+</div>
