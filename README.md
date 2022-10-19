@@ -1,10 +1,13 @@
-<div align="center">
-  <img src="https://badgen.net/badge/money/missing/red">
-  <img src="https://badgen.net/badge/body clock/almost fixed/orange">
-  <img src="https://badgen.net/badge/cute things/needed/red">
-  <img src="https://badgen.net/badge/motivated/enough/green">
-</div>
+<samp align="center">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jpnykw&count_private=true&show_icons=true&theme=tokyonight">
-</div>
++--------o--------+
+
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jpnykw)
+
++--------o--------+
+
+but - it does not seem to be in use now...
+
+I will probably be back soon :)
+
+</samp>
