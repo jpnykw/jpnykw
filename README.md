@@ -1,13 +1,9 @@
-<samp align="center">
+<div align="center">
 
-+--------o--------+
+<div>
+  <samp>me? uh I'm just an- meow meow.... wait what?</samp>
+</div>
 
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jpnykw)
+<img src="https://moe-counter.glitch.me/get/@:jpnykw?theme=rule34">
 
-+--------o--------+
-
-but - it does not seem to be in use now...
-
-I will probably be back soon :)
-
-</samp>
+</div>
