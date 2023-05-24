@@ -4,6 +4,6 @@
   <samp>me? uh I'm just an- meow meow.... wait what?</samp>
 </div>
 
-<img src="https://moe-counter.glitch.me/get/@:jpnykw?theme=rule34">
+<img src="https://moe-counter.glitch.me/get/@:jpnykw?theme=moebooru">
 
 </div>
